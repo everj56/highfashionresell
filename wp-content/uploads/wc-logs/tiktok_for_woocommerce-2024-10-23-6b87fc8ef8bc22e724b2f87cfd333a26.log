@@ -1,0 +1,28 @@
+2024-10-23T16:45:33+00:00 DEBUG Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+HTTP/1.1 200 OK
+Content-Type: application/json
+X-Tt-Logid: 20241023164532342509047740AB16801A,20241023164532342509047740AB16801A
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+x-tt-trace-host: 01d1d9fbda5ac338c36e1c8550e31263cc11296ee50729e4a489323eedc98f82976181e067b4d648f653e0102634fb41a08eed38a39bb7d3c7713a881706ae1db776f9c77175303c971a2bb6ca3319e0b2376b693c0af455cefbcd974b2d33d40313377d686eecf02ab5e4e620769a7137
+x-tt-trace-id: 00-241023164532342509047740AB16801A-0AE83C7A5F5B5DEE-00
+Server: TLB
+Content-Encoding: gzip
+Content-Length: 220
+X-Origin-Response-Time: 72,23.44.4.36
+X-Akamai-Request-ID: 3f16d317.fe1bee42
+Date: Wed, 23 Oct 2024 16:45:33 GMT
+X-Cache: TCP_MISS from a184-28-198-204.deploy.akamaitechnologies.com (AkamaiGHost/11.6.5-0c617a4be13e71cac2c90d10d87ecf54) (-)
+Connection: close
+Vary: Accept-Encoding
+X-Cache-Remote: TCP_MISS from a23-44-4-36.deploy.akamaitechnologies.com (AkamaiGHost/11.6.5-0c617a4be13e71cac2c90d10d87ecf54) (-)
+x-tt-trace-tag: id=16;cdn-cache=miss;type=dyn
+Server-Timing: cdn-cache; desc=MISS, edge; dur=167, origin; dur=72
+Server-Timing: inner; dur=66
+X-Parent-Response-Time: 236,184.28.198.204
+
+{"code":0,"msg":"ok","data":{"app_secret":"b04ce21cbda758e0c9d0c469ab3eaa4df5d47a28","redirect_uri":"https:\/\/highfashionresell.infinityfreeapp.com\/wp-admin\/","app_id":"7429013237481373714","external_data_key":"432e354a-8839-4fe0-a325-1349ea8b9f06"}}
+2024-10-23T16:58:58+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: hit AddToCart
+2024-10-23T16:58:58+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: Missing option "access_token"
+2024-10-23T16:59:02+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: hit InitiateCheckout
+2024-10-23T16:59:02+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: Missing option "access_token"

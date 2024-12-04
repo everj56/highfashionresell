@@ -1,0 +1,1364 @@
+{
+    "dup_type": "lite",
+    "created": "2024-11-30 10:46:31",
+    "version_dup": "1.5.11.2",
+    "version_wp": "6.6.2",
+    "version_db": "10.6.19",
+    "version_php": "8.2.25",
+    "version_os": "Linux",
+    "blogname": "highfashionresell",
+    "exportOnlyDB": 0,
+    "secure_on": 0,
+    "secure_pass": "$2a$08$84ULpw0FzRYzPZ8xZpembuyw\/5PqsOoSATneWRJ9vVN2JCAQBYEaO",
+    "dbhost": null,
+    "dbname": null,
+    "dbuser": null,
+    "cpnl_host": null,
+    "cpnl_user": null,
+    "cpnl_pass": null,
+    "cpnl_enable": null,
+    "wp_tableprefix": "wpve_",
+    "mu_mode": 0,
+    "mu_generation": 0,
+    "mu_siteadmins": [
+        "admin"
+    ],
+    "subsites": [
+        {
+            "id": 1,
+            "domain": "highfashionresell.infinityfreeapp.com",
+            "path": "\/",
+            "blogname": "highfashionresell",
+            "blog_prefix": "wpve_",
+            "filteredTables": [],
+            "adminUsers": [
+                {
+                    "ID": "1",
+                    "user_login": "Group2",
+                    "id": "1"
+                }
+            ],
+            "fullHomeUrl": "https:\/\/highfashionresell.infinityfreeapp.com",
+            "fullSiteUrl": "https:\/\/highfashionresell.infinityfreeapp.com",
+            "uploadPath": "wp-content\/uploads",
+            "fullUploadPath": "\/home\/vol9_7\/infinityfree.com\/if0_37335725\/htdocs\/wp-content\/uploads",
+            "fullUploadSafePath": "\/home\/vol9_7\/infinityfree.com\/if0_37335725\/htdocs\/wp-content\/uploads",
+            "fullUploadUrl": "https:\/\/highfashionresell.infinityfreeapp.com\/wp-content\/uploads",
+            "filteredPaths": []
+        }
+    ],
+    "main_site_id": 1,
+    "mu_is_filtered": false,
+    "license_limit": 0,
+    "license_type": 0,
+    "dbInfo": {
+        "buildMode": "PHP",
+        "charSetList": [
+            "utf8mb4",
+            "utf8mb3"
+        ],
+        "collationList": [
+            "utf8mb3_general_ci",
+            "utf8mb4_unicode_520_ci"
+        ],
+        "engineList": [
+            "MyISAM",
+            "InnoDB",
+            "MEMORY"
+        ],
+        "isTablesUpperCase": 0,
+        "isNameUpperCase": 0,
+        "name": "if0_37335725_wp267",
+        "tablesBaseCount": 103,
+        "tablesFinalCount": 103,
+        "muFilteredTableCount": 0,
+        "tablesRowCount": 10222,
+        "tablesSizeOnDisk": 9203236,
+        "tablesList": {
+            "wpve_actionscheduler_actions": {
+                "inaccurateRows": 105,
+                "insertedRows": 105,
+                "size": 56696
+            },
+            "wpve_actionscheduler_claims": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_actionscheduler_groups": {
+                "inaccurateRows": 8,
+                "insertedRows": 8,
+                "size": 9460
+            },
+            "wpve_actionscheduler_logs": {
+                "inaccurateRows": 273,
+                "insertedRows": 273,
+                "size": 33756
+            },
+            "wpve_commentmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 4096
+            },
+            "wpve_comments": {
+                "inaccurateRows": 8,
+                "insertedRows": 8,
+                "size": 9736
+            },
+            "wpve_duplicator_packages": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 9220
+            },
+            "wpve_e_events": {
+                "inaccurateRows": 7,
+                "insertedRows": 7,
+                "size": 4788
+            },
+            "wpve_gla_attribute_mapping_rules": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_gla_budget_recommendations": {
+                "inaccurateRows": 4230,
+                "insertedRows": 4230,
+                "size": 227472
+            },
+            "wpve_gla_merchant_issues": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_gla_shipping_rates": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_gla_shipping_times": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_itsec_bans": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 4096
+            },
+            "wpve_itsec_dashboard_events": {
+                "inaccurateRows": 6,
+                "insertedRows": 6,
+                "size": 8404
+            },
+            "wpve_itsec_dashboard_lockouts": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_itsec_distributed_storage": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 2048
+            },
+            "wpve_itsec_fingerprints": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_itsec_firewall_rules": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 4096
+            },
+            "wpve_itsec_geolocation_cache": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_itsec_lockouts": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 9692
+            },
+            "wpve_itsec_logs": {
+                "inaccurateRows": 74,
+                "insertedRows": 74,
+                "size": 78976
+            },
+            "wpve_itsec_mutexes": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 5156
+            },
+            "wpve_itsec_opaque_tokens": {
+                "inaccurateRows": 8,
+                "insertedRows": 8,
+                "size": 8064
+            },
+            "wpve_itsec_temp": {
+                "inaccurateRows": 24,
+                "insertedRows": 24,
+                "size": 9440
+            },
+            "wpve_itsec_user_groups": {
+                "inaccurateRows": 5,
+                "insertedRows": 5,
+                "size": 2412
+            },
+            "wpve_itsec_vulnerabilities": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 4096
+            },
+            "wpve_links": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_mailchimp_carts": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 2048
+            },
+            "wpve_mailchimp_jobs": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_options": {
+                "inaccurateRows": 1278,
+                "insertedRows": 1278,
+                "size": 7216056
+            },
+            "wpve_postmeta": {
+                "inaccurateRows": 718,
+                "insertedRows": 718,
+                "size": 210636
+            },
+            "wpve_posts": {
+                "inaccurateRows": 215,
+                "insertedRows": 215,
+                "size": 188156
+            },
+            "wpve_spbc_surface_completed_dirs": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 2108
+            },
+            "wpve_termmeta": {
+                "inaccurateRows": 7,
+                "insertedRows": 7,
+                "size": 10560
+            },
+            "wpve_terms": {
+                "inaccurateRows": 21,
+                "insertedRows": 21,
+                "size": 14016
+            },
+            "wpve_term_relationships": {
+                "inaccurateRows": 49,
+                "insertedRows": 49,
+                "size": 6149
+            },
+            "wpve_term_taxonomy": {
+                "inaccurateRows": 21,
+                "insertedRows": 21,
+                "size": 4960
+            },
+            "wpve_usermeta": {
+                "inaccurateRows": 1111,
+                "insertedRows": 1111,
+                "size": 255792
+            },
+            "wpve_users": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 8668
+            },
+            "wpve_wc_admin_notes": {
+                "inaccurateRows": 60,
+                "insertedRows": 60,
+                "size": 28024
+            },
+            "wpve_wc_admin_note_actions": {
+                "inaccurateRows": 86,
+                "insertedRows": 86,
+                "size": 24180
+            },
+            "wpve_wc_category_lookup": {
+                "inaccurateRows": 3,
+                "insertedRows": 3,
+                "size": 2099
+            },
+            "wpve_wc_customer_lookup": {
+                "inaccurateRows": 29,
+                "insertedRows": 29,
+                "size": 8260
+            },
+            "wpve_wc_download_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_wc_orders": {
+                "inaccurateRows": 3,
+                "insertedRows": 3,
+                "size": 18752
+            },
+            "wpve_wc_orders_meta": {
+                "inaccurateRows": 71,
+                "insertedRows": 71,
+                "size": 26388
+            },
+            "wpve_wc_order_addresses": {
+                "inaccurateRows": 6,
+                "insertedRows": 6,
+                "size": 14216
+            },
+            "wpve_wc_order_coupon_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_wc_order_operational_data": {
+                "inaccurateRows": 3,
+                "insertedRows": 3,
+                "size": 6964
+            },
+            "wpve_wc_order_product_lookup": {
+                "inaccurateRows": 3,
+                "insertedRows": 3,
+                "size": 6438
+            },
+            "wpve_wc_order_stats": {
+                "inaccurateRows": 3,
+                "insertedRows": 3,
+                "size": 11492
+            },
+            "wpve_wc_order_tax_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_wc_product_attributes_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_wc_product_download_directories": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 9428
+            },
+            "wpve_wc_product_meta_lookup": {
+                "inaccurateRows": 21,
+                "insertedRows": 21,
+                "size": 12480
+            },
+            "wpve_wc_rate_limits": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 4096
+            },
+            "wpve_wc_reserved_stock": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_wc_tax_rate_classes": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 9288
+            },
+            "wpve_wc_webhooks": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_wfauditevents": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_wfblockediplog": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_wfblocks7": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 5312
+            },
+            "wpve_wfconfig": {
+                "inaccurateRows": 252,
+                "insertedRows": 252,
+                "size": 31904
+            },
+            "wpve_wfcrawlers": {
+                "inaccurateRows": 3,
+                "insertedRows": 3,
+                "size": 2244
+            },
+            "wpve_wffilechanges": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_wffilemods": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_wfhits": {
+                "inaccurateRows": 317,
+                "insertedRows": 317,
+                "size": 131332
+            },
+            "wpve_wfhoover": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_wfissues": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_wfknownfilelist": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_wflivetraffichuman": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_wflocs": {
+                "inaccurateRows": 15,
+                "insertedRows": 15,
+                "size": 3268
+            },
+            "wpve_wflogins": {
+                "inaccurateRows": 294,
+                "insertedRows": 294,
+                "size": 69924
+            },
+            "wpve_wfls_2fa_secrets": {
+                "inaccurateRows": 3,
+                "insertedRows": 3,
+                "size": 32768
+            },
+            "wpve_wfls_role_counts": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 0
+            },
+            "wpve_wfls_settings": {
+                "inaccurateRows": 30,
+                "insertedRows": 34,
+                "size": 16384
+            },
+            "wpve_wfnotifications": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 2252
+            },
+            "wpve_wfpendingissues": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_wfreversecache": {
+                "inaccurateRows": 14,
+                "insertedRows": 14,
+                "size": 2808
+            },
+            "wpve_wfsecurityevents": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_wfsnipcache": {
+                "inaccurateRows": 54,
+                "insertedRows": 54,
+                "size": 6916
+            },
+            "wpve_wfstatus": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 4240
+            },
+            "wpve_wftrafficrates": {
+                "inaccurateRows": 601,
+                "insertedRows": 601,
+                "size": 30986
+            },
+            "wpve_wfwaffailures": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_woocommerce_api_keys": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 6316
+            },
+            "wpve_woocommerce_attribute_taxonomies": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_woocommerce_downloadable_product_permissions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_woocommerce_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_woocommerce_order_itemmeta": {
+                "inaccurateRows": 50,
+                "insertedRows": 50,
+                "size": 13064
+            },
+            "wpve_woocommerce_order_items": {
+                "inaccurateRows": 6,
+                "insertedRows": 6,
+                "size": 3724
+            },
+            "wpve_woocommerce_payment_tokenmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_woocommerce_payment_tokens": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_woocommerce_sessions": {
+                "inaccurateRows": 81,
+                "insertedRows": 81,
+                "size": 134020
+            },
+            "wpve_woocommerce_shipping_zones": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 2080
+            },
+            "wpve_woocommerce_shipping_zone_locations": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 4128
+            },
+            "wpve_woocommerce_shipping_zone_methods": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 2092
+            },
+            "wpve_woocommerce_tax_rates": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_woocommerce_tax_rate_locations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_wpc_accesslocks": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_wpc_login_fails": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpve_wpmailsmtp_debug_events": {
+                "inaccurateRows": 28,
+                "insertedRows": 32,
+                "size": 65536
+            },
+            "wpve_wpmailsmtp_tasks_meta": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 2116
+            }
+        },
+        "lowerCaseTableNames": 0,
+        "dbEngine": "MariaDB",
+        "version": "10.6.19",
+        "versionComment": "MariaDB Server",
+        "viewCount": 0,
+        "procCount": 0,
+        "funcCount": 0,
+        "triggerList": []
+    },
+    "packInfo": {
+        "packageId": 1,
+        "packageName": "20241130_highfashionresell",
+        "packageHash": "7382437-30104631",
+        "secondaryHash": "3325ae5-30104631"
+    },
+    "fileInfo": {
+        "dirCount": 6135,
+        "fileCount": 28548,
+        "size": 150577563
+    },
+    "wpInfo": {
+        "version": "6.6.2",
+        "is_multisite": false,
+        "network_id": 1,
+        "targetRoot": "\/home\/vol9_7\/infinityfree.com\/if0_37335725\/htdocs",
+        "targetPaths": [
+            "\/home\/vol9_7\/infinityfree.com\/if0_37335725\/htdocs"
+        ],
+        "adminUsers": [
+            {
+                "ID": "1",
+                "user_login": "Group2",
+                "id": "1"
+            }
+        ],
+        "configs": {
+            "defines": {
+                "ABSPATH": {
+                    "value": "\/home\/vol9_7\/infinityfree.com\/if0_37335725\/htdocs\/",
+                    "inWpConfig": true
+                },
+                "DB_CHARSET": {
+                    "value": "utf8mb4",
+                    "inWpConfig": true
+                },
+                "DB_COLLATE": {
+                    "value": "",
+                    "inWpConfig": true
+                },
+                "AUTH_KEY": {
+                    "value": "imjobhgifa9lrcrkijyy6dlifltx1lduwyx9zjz5wio9abla7kh5rtt8njq6pemh",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_KEY": {
+                    "value": "ymo5hwvbuyq7urducqxoqxvaquc2ec5dn2ejjz0or7dd365r07ajqdja1jef9r76",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_KEY": {
+                    "value": "io2nzun96qgawxt0cfjgvsja0bqkwt5v01uutkr1unnznkmcivbmiyuxex5wteya",
+                    "inWpConfig": true
+                },
+                "NONCE_KEY": {
+                    "value": "sqcbywppn6ezalv1wyfm4fift8qllcfjl2aecpnpgw5oz4mfrizjn2wp1wn1rnva",
+                    "inWpConfig": true
+                },
+                "AUTH_SALT": {
+                    "value": "cj5u7g1vi3thxmgiumkiynipqhoghamuyoyumzufbqoasyoa8gruts7ktz1aily8",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_SALT": {
+                    "value": "nhgw91oi3h2xa5wvyyg50ho9oa4ju6bu5oqqffrfz6iftve4w4ahels6yjglav0a",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_SALT": {
+                    "value": "qsg6cua6ftsrv3pezck8j9uyt0yjpowpteuorwqmpe1rqdkgqhm8pr8pec3y8qxm",
+                    "inWpConfig": true
+                },
+                "NONCE_SALT": {
+                    "value": "nuupc5paofyrzzt8q3m3wvczw8ed0tvzawxpgaqzplfpnjyabdm8vsigmhriqaib",
+                    "inWpConfig": true
+                },
+                "WP_CONTENT_DIR": {
+                    "value": "\/home\/vol9_7\/infinityfree.com\/if0_37335725\/htdocs\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_CONTENT_URL": {
+                    "value": "https:\/\/highfashionresell.infinityfreeapp.com\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_DIR": {
+                    "value": "\/home\/vol9_7\/infinityfree.com\/if0_37335725\/htdocs\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_URL": {
+                    "value": "https:\/\/highfashionresell.infinityfreeapp.com\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "PLUGINDIR": {
+                    "value": "wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "AUTOSAVE_INTERVAL": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "WP_POST_REVISIONS": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "COOKIE_DOMAIN": {
+                    "value": "",
+                    "inWpConfig": false
+                },
+                "MULTISITE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG": {
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "SCRIPT_DEBUG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_LOG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_DISPLAY": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_MEMORY_LIMIT": {
+                    "value": "40M",
+                    "inWpConfig": false
+                },
+                "WP_MAX_MEMORY_LIMIT": {
+                    "value": "512M",
+                    "inWpConfig": false
+                },
+                "WP_CACHE": {
+                    "value": true,
+                    "inWpConfig": true
+                },
+                "WP_LANG_DIR": {
+                    "value": "\/home\/vol9_7\/infinityfree.com\/if0_37335725\/htdocs\/wp-content\/languages",
+                    "inWpConfig": false
+                },
+                "WP_CRON_LOCK_TIMEOUT": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "COOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "SITECOOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "ADMIN_COOKIE_PATH": {
+                    "value": "\/wp-admin",
+                    "inWpConfig": false
+                },
+                "PLUGINS_COOKIE_PATH": {
+                    "value": "\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "TEMPLATEPATH": {
+                    "value": "\/home\/vol9_7\/infinityfree.com\/if0_37335725\/htdocs\/wp-content\/themes\/twentytwentyfour",
+                    "inWpConfig": false
+                },
+                "STYLESHEETPATH": {
+                    "value": "\/home\/vol9_7\/infinityfree.com\/if0_37335725\/htdocs\/wp-content\/themes\/twentytwentyfour",
+                    "inWpConfig": false
+                },
+                "EMPTY_TRASH_DAYS": {
+                    "value": 30,
+                    "inWpConfig": false
+                },
+                "DISALLOW_FILE_EDIT": {
+                    "value": true,
+                    "inWpConfig": true
+                },
+                "FORCE_SSL_ADMIN": {
+                    "value": true,
+                    "inWpConfig": true
+                },
+                "WPMU_PLUGIN_DIR": {
+                    "value": "\/home\/vol9_7\/infinityfree.com\/if0_37335725\/htdocs\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_URL": {
+                    "value": "https:\/\/highfashionresell.infinityfreeapp.com\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "MUPLUGINDIR": {
+                    "value": "wp-content\/mu-plugins",
+                    "inWpConfig": false
+                }
+            },
+            "realValues": {
+                "siteUrl": "https:\/\/highfashionresell.infinityfreeapp.com",
+                "homeUrl": "https:\/\/highfashionresell.infinityfreeapp.com",
+                "loginUrl": "https:\/\/highfashionresell.infinityfreeapp.com\/login\/",
+                "contentUrl": "https:\/\/highfashionresell.infinityfreeapp.com\/wp-content",
+                "uploadBaseUrl": "https:\/\/highfashionresell.infinityfreeapp.com\/wp-content\/uploads",
+                "pluginsUrl": "https:\/\/highfashionresell.infinityfreeapp.com\/wp-content\/plugins",
+                "mupluginsUrl": "https:\/\/highfashionresell.infinityfreeapp.com\/wp-content\/mu-plugins",
+                "themesUrl": "https:\/\/highfashionresell.infinityfreeapp.com\/wp-content\/themes",
+                "originalPaths": {
+                    "home": "\/home\/vol9_7\/infinityfree.com\/if0_37335725\/htdocs",
+                    "abs": "\/home\/vol9_7\/infinityfree.com\/if0_37335725\/htdocs",
+                    "wpconfig": "\/home\/vol9_7\/infinityfree.com\/if0_37335725\/htdocs",
+                    "wpcontent": "\/home\/vol9_7\/infinityfree.com\/if0_37335725\/htdocs\/wp-content",
+                    "uploads": "\/home\/vol9_7\/infinityfree.com\/if0_37335725\/htdocs\/wp-content\/uploads",
+                    "plugins": "\/home\/vol9_7\/infinityfree.com\/if0_37335725\/htdocs\/wp-content\/plugins",
+                    "muplugins": "\/home\/vol9_7\/infinityfree.com\/if0_37335725\/htdocs\/wp-content\/mu-plugins",
+                    "themes": "\/home\/vol9_7\/infinityfree.com\/if0_37335725\/htdocs\/wp-content\/themes"
+                },
+                "archivePaths": {
+                    "home": "\/home\/vol9_7\/infinityfree.com\/if0_37335725\/htdocs",
+                    "abs": "\/home\/vol9_7\/infinityfree.com\/if0_37335725\/htdocs",
+                    "wpconfig": "\/home\/vol9_7\/infinityfree.com\/if0_37335725\/htdocs",
+                    "wpcontent": "\/home\/vol9_7\/infinityfree.com\/if0_37335725\/htdocs\/wp-content",
+                    "uploads": "\/home\/vol9_7\/infinityfree.com\/if0_37335725\/htdocs\/wp-content\/uploads",
+                    "plugins": "\/home\/vol9_7\/infinityfree.com\/if0_37335725\/htdocs\/wp-content\/plugins",
+                    "muplugins": "\/home\/vol9_7\/infinityfree.com\/if0_37335725\/htdocs\/wp-content\/mu-plugins",
+                    "themes": "\/home\/vol9_7\/infinityfree.com\/if0_37335725\/htdocs\/wp-content\/themes"
+                }
+            }
+        },
+        "plugins": {
+            "all-in-one-wp-migration\/all-in-one-wp-migration.php": {
+                "slug": "all-in-one-wp-migration\/all-in-one-wp-migration.php",
+                "name": "All-in-One WP Migration",
+                "version": "7.87",
+                "pluginURI": "https:\/\/servmask.com\/",
+                "author": "ServMask",
+                "authorURI": "https:\/\/servmask.com\/",
+                "description": "Migration tool for all your blog data. Import or Export your blog content with a single click.",
+                "title": "All-in-One WP Migration",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "autoptimize\/autoptimize.php": {
+                "slug": "autoptimize\/autoptimize.php",
+                "name": "Autoptimize",
+                "version": "3.1.12",
+                "pluginURI": "https:\/\/autoptimize.com\/pro\/",
+                "author": "Frank Goossens (futtta)",
+                "authorURI": "https:\/\/autoptimize.com\/pro\/",
+                "description": "Makes your site faster by optimizing CSS, JS, Images, Google fonts and more.",
+                "title": "Autoptimize",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "custom-cookie-manager.php": {
+                "slug": "custom-cookie-manager.php",
+                "name": "Custom Cookie Manager with Consent",
+                "version": "1.2",
+                "pluginURI": "",
+                "author": "",
+                "authorURI": "",
+                "description": "A plugin to manage cookies and ask for user consent.",
+                "title": "Custom Cookie Manager with Consent",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "duplicator\/duplicator.php": {
+                "slug": "duplicator\/duplicator.php",
+                "name": "Duplicator",
+                "version": "1.5.11.2",
+                "pluginURI": "https:\/\/duplicator.com\/",
+                "author": "Duplicator",
+                "authorURI": "https:\/\/duplicator.com\/",
+                "description": "Migrate and backup a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "emails-verification-for-woocommerce\/email-verification-for-woocommerce.php": {
+                "slug": "emails-verification-for-woocommerce\/email-verification-for-woocommerce.php",
+                "name": "Email Verification for WooCommerce",
+                "version": "2.9.1",
+                "pluginURI": "https:\/\/wpfactory.com\/item\/email-verification-for-woocommerce\/",
+                "author": "WPFactory",
+                "authorURI": "https:\/\/wpfactory.com",
+                "description": "Verify user emails in WooCommerce. Beautifully.",
+                "title": "Email Verification for WooCommerce",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "google-listings-and-ads\/google-listings-and-ads.php": {
+                "slug": "google-listings-and-ads\/google-listings-and-ads.php",
+                "name": "Google for WooCommerce",
+                "version": "2.9.0",
+                "pluginURI": "",
+                "author": "WooCommerce",
+                "authorURI": "https:\/\/woocommerce.com\/",
+                "description": "Native integration with Google that allows merchants to easily display their products across Google\u2019s network.",
+                "title": "Google for WooCommerce",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "hcaptcha-for-forms-and-more\/hcaptcha.php": {
+                "slug": "hcaptcha-for-forms-and-more\/hcaptcha.php",
+                "name": "hCaptcha for WP",
+                "version": "4.7.1",
+                "pluginURI": "https:\/\/www.hcaptcha.com\/",
+                "author": "hCaptcha",
+                "authorURI": "https:\/\/www.hcaptcha.com\/",
+                "description": "hCaptcha keeps out bots and spam while putting privacy first. It is a drop-in replacement for reCAPTCHA.",
+                "title": "hCaptcha for WP",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "http-headers\/http-headers.php": {
+                "slug": "http-headers\/http-headers.php",
+                "name": "HTTP Headers",
+                "version": "1.19.1",
+                "pluginURI": "https:\/\/github.com\/riverside\/http-headers",
+                "author": "Dimitar Ivanov",
+                "authorURI": "https:\/\/github.com\/riverside",
+                "description": "A plugin for HTTP headers management including security, access-control (CORS), caching, compression, and authentication.",
+                "title": "HTTP Headers",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "pymntpl-paypal-woocommerce\/pymntpl-paypal-woocommerce.php": {
+                "slug": "pymntpl-paypal-woocommerce\/pymntpl-paypal-woocommerce.php",
+                "name": "Payment Plugins for PayPal WooCommerce",
+                "version": "1.0.53",
+                "pluginURI": "https:\/\/docs.paymentplugins.com\/wc-paypal\/config\/",
+                "author": "Payment Plugins, support@paymentplugins.com",
+                "authorURI": "",
+                "description": "Accept PayPal on your WooCommerce site.",
+                "title": "Payment Plugins for PayPal WooCommerce",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "pinterest-for-woocommerce\/pinterest-for-woocommerce.php": {
+                "slug": "pinterest-for-woocommerce\/pinterest-for-woocommerce.php",
+                "name": "Pinterest for WooCommerce",
+                "version": "1.4.12",
+                "pluginURI": "https:\/\/woocommerce.com\/products\/pinterest-for-woocommerce\/",
+                "author": "WooCommerce",
+                "authorURI": "https:\/\/woocommerce.com",
+                "description": "Grow your business on Pinterest! Use this official plugin to allow shoppers to Pin products while browsing your store, track conversions, and advertise on Pinterest.",
+                "title": "Pinterest for WooCommerce",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "really-simple-ssl\/rlrsssl-really-simple-ssl.php": {
+                "slug": "really-simple-ssl\/rlrsssl-really-simple-ssl.php",
+                "name": "Really Simple Security",
+                "version": "9.1.2",
+                "pluginURI": "https:\/\/really-simple-ssl.com",
+                "author": "Really Simple Security",
+                "authorURI": "https:\/\/really-simple-plugins.com",
+                "description": "Easily improve site security with WordPress Hardening, Two-Factor Authentication (2FA), Login Protection, Vulnerability Detection and SSL certificate generation.",
+                "title": "Really Simple Security",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "better-wp-security\/better-wp-security.php": {
+                "slug": "better-wp-security\/better-wp-security.php",
+                "name": "Solid Security Basic",
+                "version": "9.3.5",
+                "pluginURI": "https:\/\/solidwp.com\/products\/security",
+                "author": "SolidWP",
+                "authorURI": "https:\/\/solidwp.com",
+                "description": "Shield your site from cyberattacks and prevent security vulnerabilities. The only security plugin you need for a solid foundation.",
+                "title": "Solid Security Basic",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "updraftplus\/updraftplus.php": {
+                "slug": "updraftplus\/updraftplus.php",
+                "name": "UpdraftPlus - Backup\/Restore",
+                "version": "1.24.11",
+                "pluginURI": "https:\/\/updraftplus.com",
+                "author": "TeamUpdraft, DavidAnderson",
+                "authorURI": "https:\/\/updraftplus.com",
+                "description": "Backup and restore: take backups locally, or backup to Amazon S3, Dropbox, Google Drive, Rackspace, (S)FTP, WebDAV & email, on automatic schedules.",
+                "title": "UpdraftPlus - Backup\/Restore",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "w3-total-cache\/w3-total-cache.php": {
+                "slug": "w3-total-cache\/w3-total-cache.php",
+                "name": "W3 Total Cache",
+                "version": "2.8.0",
+                "pluginURI": "https:\/\/www.boldgrid.com\/totalcache\/",
+                "author": "BoldGrid",
+                "authorURI": "https:\/\/www.boldgrid.com\/",
+                "description": "The highest rated and most complete WordPress performance plugin. Dramatically improve the speed and user experience of your site. Add browser, page, object and database caching as well as minify and content delivery network (CDN) to WordPress.",
+                "title": "W3 Total Cache",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "woocommerce\/woocommerce.php": {
+                "slug": "woocommerce\/woocommerce.php",
+                "name": "WooCommerce",
+                "version": "9.4.2",
+                "pluginURI": "https:\/\/woocommerce.com\/",
+                "author": "Automattic",
+                "authorURI": "https:\/\/woocommerce.com",
+                "description": "An ecommerce toolkit that helps you sell anything. Beautifully.",
+                "title": "WooCommerce",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "woocommerce-paypal-payments\/woocommerce-paypal-payments.php": {
+                "slug": "woocommerce-paypal-payments\/woocommerce-paypal-payments.php",
+                "name": "WooCommerce PayPal Payments",
+                "version": "2.9.4",
+                "pluginURI": "https:\/\/woocommerce.com\/products\/woocommerce-paypal-payments\/",
+                "author": "WooCommerce",
+                "authorURI": "https:\/\/woocommerce.com\/",
+                "description": "PayPal's latest complete payments processing solution. Accept PayPal, Pay Later, credit\/debit cards, alternative digital wallets local payment types and bank accounts. Turn on only PayPal options or process a full suite of payment methods. Enable global transaction with extensive currency and country coverage.",
+                "title": "WooCommerce PayPal Payments",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "woocommerce-services\/woocommerce-services.php": {
+                "slug": "woocommerce-services\/woocommerce-services.php",
+                "name": "WooCommerce Shipping & Tax",
+                "version": "2.8.3",
+                "pluginURI": "https:\/\/woocommerce.com\/",
+                "author": "WooCommerce",
+                "authorURI": "https:\/\/woocommerce.com\/",
+                "description": "Hosted services for WooCommerce: automated tax calculation, shipping label printing, and smoother payment setup.",
+                "title": "WooCommerce Shipping & Tax",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "woocommerce-payments\/woocommerce-payments.php": {
+                "slug": "woocommerce-payments\/woocommerce-payments.php",
+                "name": "WooPayments",
+                "version": "8.5.1",
+                "pluginURI": "https:\/\/woocommerce.com\/payments\/",
+                "author": "WooCommerce",
+                "authorURI": "https:\/\/woocommerce.com\/",
+                "description": "Accept payments via credit card. Manage transactions within WordPress.",
+                "title": "WooPayments",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wordfence\/wordfence.php": {
+                "slug": "wordfence\/wordfence.php",
+                "name": "Wordfence Security",
+                "version": "8.0.1",
+                "pluginURI": "https:\/\/www.wordfence.com\/",
+                "author": "Wordfence",
+                "authorURI": "https:\/\/www.wordfence.com\/",
+                "description": "Wordfence Security - Anti-virus, Firewall and Malware Scan",
+                "title": "Wordfence Security",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wp-mail-smtp\/wp_mail_smtp.php": {
+                "slug": "wp-mail-smtp\/wp_mail_smtp.php",
+                "name": "WP Mail SMTP",
+                "version": "4.2.0",
+                "pluginURI": "https:\/\/wpmailsmtp.com\/",
+                "author": "WP Mail SMTP",
+                "authorURI": "https:\/\/wpmailsmtp.com\/",
+                "description": "Reconfigures the <code>wp_mail()<\/code> function to use Gmail\/Mailgun\/SendGrid\/SMTP instead of the default <code>mail()<\/code> and creates an options page to manage the settings.",
+                "title": "WP Mail SMTP",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wps-hide-login_disabled\/wps-hide-login.php": {
+                "slug": "wps-hide-login_disabled\/wps-hide-login.php",
+                "name": "WPS Hide Login",
+                "version": "1.9.17.1",
+                "pluginURI": "",
+                "author": "WPServeur, NicolasKulka, wpformation",
+                "authorURI": "https:\/\/wpserveur.net",
+                "description": "Protect your website by changing the login URL and preventing access to wp-login.php page and wp-admin directory while not logged-in",
+                "title": "WPS Hide Login",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "advanced-cache.php": {
+                "slug": "advanced-cache.php",
+                "name": "advanced-cache.php",
+                "version": "",
+                "pluginURI": "",
+                "author": "",
+                "authorURI": "",
+                "description": "",
+                "title": "",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": true
+            },
+            "db.php": {
+                "slug": "db.php",
+                "name": "db.php",
+                "version": "",
+                "pluginURI": "",
+                "author": "",
+                "authorURI": "",
+                "description": "",
+                "title": "",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": true
+            },
+            "object-cache.php": {
+                "slug": "object-cache.php",
+                "name": "object-cache.php",
+                "version": "",
+                "pluginURI": "",
+                "author": "",
+                "authorURI": "",
+                "description": "",
+                "title": "",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": true
+            }
+        },
+        "themes": {
+            "astra": {
+                "slug": "astra",
+                "themeName": "Astra",
+                "version": "4.8.3",
+                "themeURI": "https:\/\/wpastra.com\/",
+                "parentTheme": false,
+                "template": "astra",
+                "stylesheet": "astra",
+                "description": "Astra is fast, fully customizable &amp; beautiful WordPress theme suitable for blog, personal portfolio, business website and WooCommerce storefront. It is very lightweight (less than 50KB on frontend) and offers unparalleled speed. Built with SEO in mind, Astra comes with Schema.org code integrated and is Native AMP ready so search engines will love your site. It offers special features and templates so it works perfectly with all page builders like Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi, etc. Some of the other features: # WooCommerce Ready # Responsive # RTL &amp; Translation Ready # Extendible with premium addons # Regularly updated # Designed, Developed, Maintained &amp; Supported by Brainstorm Force. Looking for a perfect base theme? Look no further. Astra is fast, fully customizable and WooCommerce ready theme that you can use for building any kind of website!",
+                "author": "Brainstorm Force",
+                "authorURI": "https:\/\/wpastra.com\/about\/?utm_source=theme_preview&utm_medium=author_link&utm_campaign=astra_theme",
+                "tags": [
+                    "custom-menu",
+                    "custom-logo",
+                    "entertainment",
+                    "one-column",
+                    "two-columns",
+                    "left-sidebar",
+                    "e-commerce",
+                    "right-sidebar",
+                    "custom-colors",
+                    "editor-style",
+                    "featured-images",
+                    "full-width-template",
+                    "microformats",
+                    "post-formats",
+                    "rtl-language-support",
+                    "theme-options",
+                    "threaded-comments",
+                    "translation-ready",
+                    "blog"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "hello-elementor": {
+                "slug": "hello-elementor",
+                "themeName": "Hello Elementor",
+                "version": "3.1.1",
+                "themeURI": "https:\/\/elementor.com\/hello-theme\/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash",
+                "parentTheme": false,
+                "template": "hello-elementor",
+                "stylesheet": "hello-elementor",
+                "description": "Hello Elementor is a lightweight and minimalist WordPress theme that was built specifically to work seamlessly with the Elementor site builder plugin. The theme is free, open-source, and designed for users who want a flexible, easy-to-use, and customizable website. The theme, which is optimized for performance, provides a solid foundation for users to build their own unique designs using the Elementor drag-and-drop site builder. Its simplicity and flexibility make it a great choice for both beginners and experienced Web Creators.",
+                "author": "Elementor Team",
+                "authorURI": "https:\/\/elementor.com\/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash",
+                "tags": [
+                    "accessibility-ready",
+                    "flexible-header",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "featured-images",
+                    "rtl-language-support",
+                    "threaded-comments",
+                    "translation-ready"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwentyfour": {
+                "slug": "twentytwentyfour",
+                "themeName": "Twenty Twenty-Four",
+                "version": "1.2",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentyfour\/",
+                "parentTheme": false,
+                "template": "twentytwentyfour",
+                "stylesheet": "twentytwentyfour",
+                "description": "Twenty Twenty-Four is designed to be flexible, versatile and applicable to any website. Its collection of templates and patterns tailor to different needs, such as presenting a business, blogging and writing or showcasing work. A multitude of possibilities open up with just a few adjustments to color and typography. Twenty Twenty-Four comes with style variations and full page designs to help speed up the site building process, is fully compatible with the site editor, and takes advantage of new design tools introduced in WordPress 6.4.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "wide-blocks",
+                    "block-styles",
+                    "style-variations",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": true,
+                "defaultTheme": true
+            },
+            "twentytwentythree": {
+                "slug": "twentytwentythree",
+                "themeName": "Twenty Twenty-Three",
+                "version": "1.5",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentythree",
+                "parentTheme": false,
+                "template": "twentytwentythree",
+                "stylesheet": "twentytwentythree",
+                "description": "Twenty Twenty-Three is designed to take advantage of the new design tools introduced in WordPress 6.1. With a clean, blank base as a starting point, this default theme includes ten diverse style variations created by members of the WordPress community. Whether you want to build a complex or incredibly simple website, you can do it quickly and intuitively through the bundled styles or dive into creation and full customization yourself.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "wide-blocks",
+                    "block-styles",
+                    "style-variations",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwentytwo": {
+                "slug": "twentytwentytwo",
+                "themeName": "Twenty Twenty-Two",
+                "version": "1.8",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentytwo\/",
+                "parentTheme": false,
+                "template": "twentytwentytwo",
+                "stylesheet": "twentytwentytwo",
+                "description": "Built on a solidly designed foundation, Twenty Twenty-Two embraces the idea that everyone deserves a truly unique website. The theme\u2019s subtle styles are inspired by the diversity and versatility of birds: its typography is lightweight yet strong, its color palette is drawn from nature, and its layout elements sit gently on the page. The true richness of Twenty Twenty-Two lies in its opportunity for customization. The theme is built to take advantage of the Site Editor features introduced in WordPress 5.9, which means that colors, typography, and the layout of every single page on your site can be customized to suit your vision. It also includes dozens of block patterns, opening the door to a wide range of professionally designed layouts in just a few clicks. Whether you\u2019re building a single-page website, a blog, a business website, or a portfolio, Twenty Twenty-Two will help you create a site that is uniquely yours.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "style-variations",
+                    "wide-blocks",
+                    "block-styles",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            }
+        }
+    },
+    "defaultStorageId": -1,
+    "components": [
+        "package_component_db",
+        "package_component_core",
+        "package_component_plugins",
+        "package_component_themes",
+        "package_component_uploads",
+        "package_component_other"
+    ],
+    "opts_delete": "[\"duplicator_ui_view_state\",\"duplicator_package_active\",\"duplicator_settings\",\"duplicator_is_pro_enable_notice_dismissed\"]",
+    "brand": {
+        "name": "Duplicator",
+        "isDefault": true,
+        "logo": "<i class=\"fa fa-bolt fa-sm\"><\/i> Duplicator",
+        "enabled": false,
+        "style": []
+    },
+    "overwriteInstallerParams": {
+        "blogname": {
+            "value": "highfashionresell"
+        }
+    },
+    "installer_base_name": "installer.php.bak",
+    "installer_backup_name": "20241130_highfashionresell_7382437664957d363500_20241130104631_installer-backup.php",
+    "package_name": "20241130_highfashionresell_7382437664957d363500_20241130104631_archive.zip",
+    "package_hash": "7382437-30104631",
+    "package_notes": ""
+}

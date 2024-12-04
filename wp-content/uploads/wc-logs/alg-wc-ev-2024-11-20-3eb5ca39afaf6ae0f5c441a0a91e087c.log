@@ -1,0 +1,2 @@
+2024-11-20T04:06:58+00:00 INFO Error sending mail. Mail function: wc_mail. Last error: opendir(/home/vol9_7/infinityfree.com/if0_37335725/htdocs/wp-content/cache/db/comments/): Failed to open directory: No such file or directory.
+2024-11-20T04:12:47+00:00 INFO Error sending mail. Mail function: wc_mail. Last error: opendir(/home/vol9_7/infinityfree.com/if0_37335725/htdocs/wp-content/cache/db/comments/): Failed to open directory: No such file or directory.
